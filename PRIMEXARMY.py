@@ -3,11 +3,11 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ==================== CONFIG (BHARIEN) ====================
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "8747361808:AAGIiCAHwR4XJeQw_7V8Jw80-K-Jc9nk1ro"
 GITHUB_TOKEN = "YOUR_GITHUB_PERSONAL_ACCESS_TOKEN" # Classic Token with 'workflow' scope
-REPO_OWNER = "YOUR_GITHUB_USERNAME"
-REPO_NAME = "YOUR_REPO_NAME"
-ADMIN_ID = 123456789 # Apni Numeric ID Daalein
+REPO_OWNER = "aorussetup1-dot"
+REPO_NAME = "DDOOSS"
+ADMIN_ID = 1953766793 # Apni Numeric ID Daalein
 # ==========================================================
 
 BANNER = "⚔️ **PRIMEXARMY v4.3 - GITHUB ENGINE** ⚔️\n"
